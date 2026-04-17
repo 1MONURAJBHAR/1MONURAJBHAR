@@ -1,96 +1,143 @@
-<h1 align="center"> 
-  👋 I'm <span style="color:#61DAFB;">Monu Rajbhar</span>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Monu+Rajbhar+%F0%9F%91%8B;Full+Stack+Developer;MERN+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  🚀 Full Stack Developer (MERN) | 🤖 Agentic AI & LLM Explorer | 🎓 IT Engineering Student
-</h3>
+<p align="center">
+  <b>Full Stack Developer (MERN) • AI/ML Enthusiast • B.E. IT (Honours in AIML) @ SPPU</b>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+%2B+Next.js+Specialist;Building+Agentic+AI+Workflows;Docker+%26+Cloud+Native+Learner;Crafting+Intelligent+SaaS+Solutions" alt="Typing SVG" />
-</p>
-
----
-
-### 🌟 Executive Summary
-
-<div style="font-size: 16px; line-height: 1.6;">
-
-- 🎓 **Final Year IT Engineering Student** at SIT Lonavala (SPPU) with an Honors in **AI/ML**.
-- 💼 **MERN Stack Developer Intern** at Maincrafts Technology.
-- 🏗️ Currently architecting **MediaMorphAI** and **VibeCode** (Intelligent IDE).
-- 🧠 Deeply interested in **LLM Integration**, **Agentic Workflows**, and Scalable Web Architecture.
-- 📫 Connect with me: **[Your Email Here]**
-
-</div>
-
----
-
-### 🚀 Core Competencies & Tech Stack
-
-#### 💻 Engineering & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-#### 🛠️ Backend & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3399FF" />
-</p>
-
-#### 🧠 Artificial Intelligence
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-### 🏆 Featured Projects
-
-* **MediaMorphAI**: An AI-driven media transformation platform utilizing intelligent workflows for image and video processing.
-* **VibeCode**: A browser-based intelligent IDE featuring a real-time terminal and integrated AI coding assistance.
-* **Course Flow**: A server-side education platform with secure **Razorpay** integration.
-
----
-
-### 📊 GitHub Metrics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityarajsingh11&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsingh11&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityarajsingh11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🌐 Let's Collaborate
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/monu-rajbhar-bbb18b328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-id" target="blank">
+  <a href="mailto:rajbharmonu436@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/1MONURAJBHAR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/QfZhe1CfJN">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 3rd Year B.E. IT student at **Sinhgad Institute of Technology, Lonavala** (SPPU) 
+- 🚀 Passionate about building **scalable web applications** and exploring **AI/ML integrations**
+- 🧠 Interests: Software Development, Backend Engineering, LLM/AI-powered Apps
+- 📍 Based in **Pune, Maharashtra**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageKit-0770E3?style=for-the-badge&logo=imagekit&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### 💬 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+<!--
+## 🚀 Featured Projects
+
+### 📝 [Mega Blog Application](https://github.com/1MONURAJBHAR) — *Full Stack Web App (Live)*
+> A fully-featured blogging platform with auth, protected routes, and CRUD for blog posts.
+
+- 🔐 Authentication & protected routes
+- 📦 Appwrite Database & Storage with XSS-safe content rendering
+- ⚡ Deployed on Vercel with Vite
+- **Stack:** `React` `Redux Toolkit` `Appwrite` `Tailwind CSS`
+
+---
+
+### 📹 [VideoTube Backend](https://github.com/1MONURAJBHAR) — *YouTube-like Platform*
+> Scalable backend for a video sharing platform with advanced auth and media management.
+
+- 🔑 JWT Authentication with access & refresh tokens
+- 📊 MongoDB aggregation pipelines for analytics
+- 🎥 Cloudinary + Multer integration for media uploads
+- **Stack:** `Node.js` `Express.js` `MongoDB` `JWT`
+
+---
+
+### 🛒 [Blinkit Clone](https://github.com/1MONURAJBHAR) — *Full Stack E-commerce*
+> A Blinkit-inspired e-commerce app with complete cart, checkout, and order management.
+
+- 🛡️ Role-based access control with JWT
+- 🛍️ Cart, checkout & order flows via Redux Toolkit
+- 🖼️ Image uploads with pagination
+- **Stack:** `React` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
+
+---
+-->
+
+## 🏅 Certifications
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| McKinsey Forward Program | McKinsey & Company | Dec 2025 |
+| Artificial Intelligence Fundamentals | IBM | Sep 2025 |
+| Oracle Cloud Infrastructure AI Foundations Associate | Oracle | 2025 |
+| Mobile VR and AI (Silver + Elite) | NPTEL – IIT Mandi | Aug 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1MONURAJBHAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MONURAJBHAR&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1MONURAJBHAR&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
 </p>
+
