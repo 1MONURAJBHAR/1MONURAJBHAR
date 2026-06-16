@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Full Stack Developer (MERN) • AI/ML Enthusiast • B.E. IT (Honours in AIML) @ SPPU</b>
+  <b>Full Stack Developer (MERN) • AI/ML Enthusiast • B.E. IT @ SPPU</b>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 - 🎓 3rd Year B.E. IT student at **Sinhgad Institute of Technology, Lonavala** (SPPU) 
 - 🚀 Passionate about building **scalable web applications** and exploring **AI/ML integrations**
-- 🧠 Interests: Software Development, Backend Engineering, LLM/AI-powered Apps
+- 🧠 Interests: Software Development, Backend Engineering, & Data Structure Algorithms
 - 📍 Based in **Pune, Maharashtra**
 
 ---
