@@ -79,39 +79,49 @@
 </p>
 
 ---
-<!--
+
 ## 🚀 Featured Projects
 
-### 📝 [Mega Blog Application](https://github.com/1MONURAJBHAR) — *Full Stack Web App (Live)*
-> A fully-featured blogging platform with auth, protected routes, and CRUD for blog posts.
+### 🚀 MediaMorphAI — *AI-Powered Content Transformation Platform (Live)*
 
-- 🔐 Authentication & protected routes
-- 📦 Appwrite Database & Storage with XSS-safe content rendering
-- ⚡ Deployed on Vercel with Vite
-- **Stack:** `React` `Redux Toolkit` `Appwrite` `Tailwind CSS`
+> A full-stack AI platform that helps creators transform and optimize media content for different social platforms.
 
----
-
-### 📹 [VideoTube Backend](https://github.com/1MONURAJBHAR) — *YouTube-like Platform*
-> Scalable backend for a video sharing platform with advanced auth and media management.
-
-- 🔑 JWT Authentication with access & refresh tokens
-- 📊 MongoDB aggregation pipelines for analytics
-- 🎥 Cloudinary + Multer integration for media uploads
-- **Stack:** `Node.js` `Express.js` `MongoDB` `JWT`
+* 🤖 AI-powered media transformation and content optimization
+* 🔐 Secure authentication using Clerk
+* ☁️ Cloudinary integration for media storage and processing
+* 🗄️ PostgreSQL + Prisma ORM with NeonDB
+* ⚡ Built with modern Next.js architecture and TypeScript
+* **Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `NeonDB` `Cloudinary` `Clerk`
 
 ---
 
-### 🛒 [Blinkit Clone](https://github.com/1MONURAJBHAR) — *Full Stack E-commerce*
-> A Blinkit-inspired e-commerce app with complete cart, checkout, and order management.
+### 📋 Project Camp Backend — *Collaborative Project Management API*
 
-- 🛡️ Role-based access control with JWT
-- 🛍️ Cart, checkout & order flows via Redux Toolkit
-- 🖼️ Image uploads with pagination
-- **Stack:** `React` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
+> Scalable backend system for project and task management with authentication, file handling, and team collaboration.
+
+* 🔑 JWT Authentication & Authorization
+* 🛡️ Role-Based Access Control (RBAC)
+* 📁 File uploads using Cloudinary & Multer
+* 📌 Project, Task, Subtask & Notes Management APIs
+* 🔄 Password Reset & Member Management System
+* 📊 Logging & Monitoring with Morgan and Winston
+* **Stack:** `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Multer`
 
 ---
--->
+
+### 📹 VideoTube Backend — *YouTube-like Video Sharing Platform*
+
+> Production-ready backend for a video-sharing application with advanced media and user management features.
+
+* 🔐 JWT Authentication with Access & Refresh Tokens
+* 🎥 Video uploads using Cloudinary & Multer
+* 👍 Likes, Comments, Playlists & Watch History
+* 📈 MongoDB Aggregation Pipelines for Analytics
+* 🔍 Search, Filtering & Pagination APIs
+* 📊 Logging and Monitoring with Morgan & Winston
+* **Stack:** `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Multer`
+
+---
 
 ## 🏅 Certifications
 
