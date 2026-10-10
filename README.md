@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year B.E. IT student at **Sinhgad Institute of Technology, Lonavala** (SPPU) 
+- 🎓 Final year B.E. IT student at **Sinhgad Institute of Technology, Lonavala** (SPPU) 
 - 🚀 Passionate about building **scalable web applications** and exploring **AI/ML integrations**
 - 🧠 Interests: Software Development, Backend Engineering, & Data Structure Algorithms
 - 📍 Based in **Pune, Maharashtra**
